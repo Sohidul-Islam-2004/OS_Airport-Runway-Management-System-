@@ -116,9 +116,3 @@ Simulation complete!
 
 The purpose of this project is to demonstrate how **Operating System synchronization and scheduling concepts** can be applied to a real-world airport runway management scenario.
 
-## Author
-
-**Md. Sahidul Islam**
-
-Computer Science & Engineering
-East West University
