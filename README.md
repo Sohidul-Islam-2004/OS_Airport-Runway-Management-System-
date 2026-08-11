@@ -73,17 +73,6 @@ pthread_mutex_lock(&qLock);
 
 Another mutex is used to prevent multiple threads from printing to the console simultaneously.
 
-## Project Structure
-
-```text
-airport-runway-management-system/
-│
-├── README.md
-├── src/
-│   └── airport.cpp
-│
-└── .gitignore
-```
 
 ## Requirements
 
@@ -92,19 +81,6 @@ airport-runway-management-system/
 * POSIX Threads (`pthread`)
 * Linux, WSL, or an environment supporting pthreads
 
-## Compilation
-
-Compile the program using:
-
-```bash
-g++ src/airport.cpp -o airport -pthread
-```
-
-Run the program:
-
-```bash
-./airport
-```
 
 ## Example Output
 
